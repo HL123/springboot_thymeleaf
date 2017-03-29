@@ -1,4 +1,4 @@
-# 第三节 Spring Boot使用
+# 第三节 Spring Boot使用thymeleaf模板
 ## 1、按照第一节的内容新建一个Spring Boot项目，然后添加thymeleaf的依赖
 ```
 <dependency>
